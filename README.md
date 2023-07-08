@@ -1,4 +1,3 @@
-# sequelize_auth
 # Sequelize Authentication
 
 ![](https://securityintelligence.com/wp-content/uploads/2018/10/si-advanced-authentication-feature-630x330.jpg)
